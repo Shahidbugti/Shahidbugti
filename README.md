@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahidbugti
 - 👀 I’m interested in Frontend Web-development
-- 🌱 I’m currently learning SASS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me 
 
