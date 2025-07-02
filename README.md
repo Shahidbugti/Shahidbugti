@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Shahidbugti
-- 👀 I’m interested in Frontend Web-development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on LinkedIn
-- 📫 How to reach me 
+Passionate frontend developer with a love for clean code and smooth UI/UX.
+ Tech: JavaScript, React, Git, Tailwind, APIs
+ Goal: Join a team that values growth and good code.
+ Let’s connect and build something awesome!
 
-<!---
-Shahidbugti/Shahidbugti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
